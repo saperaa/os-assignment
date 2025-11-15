@@ -1,0 +1,14 @@
+# Compiled executables
+process_creation
+output_program
+simple_program
+*.exe
+*.o
+*.out
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
